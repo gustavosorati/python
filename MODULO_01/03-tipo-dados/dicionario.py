@@ -26,3 +26,4 @@ print("Chaves do dicionário:", valores[0])
 itens = list(pessoa.items())
 print("Pares chave-valor do dicionário: ", itens)
 print("Primeiro valor: ", itens[0][1])
+
